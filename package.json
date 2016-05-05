@@ -1,0 +1,23 @@
+{
+  "name": "ordered-map",
+  "version": "0.0.1",
+  "description": "a library for OrderedMap data structure",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recotj/ordered-map.git"
+  },
+  "keywords": [
+    "ordered",
+    "map"
+  ],
+  "author": "reco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recotj/ordered-map/issues"
+  },
+  "homepage": "https://github.com/recotj/ordered-map#readme"
+}
