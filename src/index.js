@@ -1,5 +1,5 @@
-const MAP = Symbol();
-const KEYS = Symbol();
+const MAP = Symbol('map');
+const KEYS = Symbol('keys');
 
 const hasOwnProperty = Object.prototype.hasOwnProperty;
 
